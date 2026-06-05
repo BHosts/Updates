@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "release_date": "2026-06-05",
+  "download_url": "https://github.com/YourUsername/YourRepo/releases/download/v1.0.1/Setup.exe",
+  "whats_new": "- Fixed sales invoice bug\n- Added Arabic language\n- Performance improvements",
+  "mandatory": "false"
+}
