@@ -5,8 +5,8 @@
   "whats_new": [
   "- Fixed sales invoice",
   "- Performance improvements",
-  "- Fixed Menu hide and show"
-  "- Fixed Backup and restore database"
+  "- Fixed Menu hide and show",
+  "- Fixed backup and restore database"
 ],
   "mandatory": "false"
 }
