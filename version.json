@@ -1,5 +1,5 @@
 {
-  "version": "1.242.40",
+  "version": "1.241.44",
   "release_date": "2026-06-10",
   "download_url": "https://github.com/BHosts/Updates/blob/main/ERP_System.exe",
   "whats_new": "- Fixed sales invoice\n- Performance improvements\n- Fixed Menu hide and show\n- Fixed backup and restore database\n- Fixed print permssion",
