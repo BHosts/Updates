@@ -2,6 +2,6 @@
   "version": "1.241.97",
   "release_date": "2026-06-13",
   "download_url": "https://github.com/BHosts/Updates/raw/refs/heads/main/ERP_System.exe",
-  "whats_new": "- Fixed sales invoice\n- Performance improvements\n- Fixed Menu hide and show\n- Fixed backup and restore database\n- Fixed print permssion",
+  "whats_new": "- Fixed sales invoice\n- Fixed backup and restore database\n- Fixed print permssion\n- Fixed Chart Of Accounts",
   "mandatory": false
 }
